@@ -1,7 +1,3 @@
-Here’s a **README.md** template for your Task Manager project:
-
----
-
 # **Task Manager App** ✨
 
 A sleek and professional **Task Manager App** built with **React.js** to efficiently manage your daily tasks. This app allows users to create, color-code, and delete tasks with ease while offering a visually appealing and interactive design.
