@@ -35,22 +35,25 @@ Follow these steps to run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SarthakKrishak/ElectronJs_taskManager.git
+   git clone https://github.com/<your-username>/task-manager-app.git
    cd task-manager-app
    ```
 
-2. Install dependencies:
-   ```bash
-   npm install
+2. Change the directory:
+   ```
+   cd elec
    ```
 
-3. Run the application:
-   ```bash
-   npm start
+3. Run the react application:
+   ```
+   npm run dev
    ```
 
-4. Open your browser and navigate to:
+4. Run the elctron application:
    ```
-   http://localhost:3000
+   npm run electron
    ```
+
+# Now the electron desktop app will open.
+# Plan your day properly !!
 
